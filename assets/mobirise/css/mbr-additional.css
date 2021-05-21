@@ -1156,14 +1156,8 @@ a {
 .cid-sy0jX7QQTR .media-container-row .row-copirayt p {
   width: 100%;
 }
-.cid-sxPS5ThzT9 {
-  z-index: 1000;
-  width: 100%;
-  position: relative;
-  min-height: 60px;
-}
-.cid-sxPS5ThzT9 nav.navbar {
-  position: fixed;
+.cid-sxPS5ThzT9 .navbar-dropdown {
+  position: relative !important;
 }
 .cid-sxPS5ThzT9 .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -1479,7 +1473,6 @@ a {
 }
 .cid-sxPS5ThzT9 .navbar-dropdown {
   padding: 0 1rem;
-  position: fixed;
 }
 .cid-sxPS5ThzT9 a.nav-link {
   display: flex;
