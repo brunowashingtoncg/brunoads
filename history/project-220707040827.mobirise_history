@@ -80,24 +80,6 @@
         "name": "aileron.regular",
         "url": null,
         "file": "@PROJECT_PATH@/fonts/aileron.regular/font.ttf"
-      },
-      {
-        "css": "'now-bold'",
-        "name": "now-bold",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/now-bold/font.ttf"
-      },
-      {
-        "css": "'kollektif'",
-        "name": "kollektif",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/kollektif/font.ttf"
-      },
-      {
-        "css": "'aileron.regular'",
-        "name": "aileron.regular",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/aileron.regular/font.ttf"
       }
     ],
     "uniqCompNum": 117,
@@ -114,9 +96,7 @@
     "gdpr": false,
     "dppsSwitcher": true,
     "spellingSwitch": true,
-    "site_lang": "en",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "site_lang": "en"
   },
   "pages": {
     "index.html": {
