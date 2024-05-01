@@ -1,2 +1,5 @@
 User-agent: Googlebot
 Disallow: /confirma-cadastro
+Disallow: /baixar-e-book
+Disallow: /e-book
+
